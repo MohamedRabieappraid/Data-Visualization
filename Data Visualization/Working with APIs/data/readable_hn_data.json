@@ -1,0 +1,50 @@
+{
+    "by": "jimktrains2",
+    // The dictionary contains a number of keys we can work with.
+    // The key 'descendants' tells us the number of comments the article has received.
+    "descendants": 221,
+    "id": 19155826,
+    // The key 'kids' provides the IDs of all comments made directly in response to this submission.
+    "kids": [
+        19156572,
+        19158857,
+        19156773,
+        19157251,
+        19156415,
+        19159820,
+        19157154,
+        19156385,
+        19156489,
+        19158522,
+        19156755,
+        19156974,
+        19158319,
+        19157034,
+        19156935,
+        19158935,
+        19157531,
+        19158638,
+        19156466,
+        19156758,
+        19156565,
+        19156498,
+        19156335,
+        19156041,
+        19156704,
+        19159047,
+        19159127,
+        19156217,
+        19156375,
+        19157945
+    ],
+    "score": 728,
+    "time": 1550085414,
+
+    // Each of these comments might have comments of their own as well, 
+    // so the number of descendants a submission has is usually greater than
+    // its number of kids. We can see the title of the article being discussed
+    "title": "Nasa\u2019s Mars Rover Opportunity Concludes a 15-Year Mission",
+    "type": "story",
+    // and a URL for the article that’s being discussed as well.
+    "url": "https://www.nytimes.com/2019/02/13/science/mars-opportunity-rover-dead.html"
+}
